@@ -1,0 +1,118 @@
+.topNav{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: red;
+   
+}
+.logo{
+    padding: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#fullname{
+    display: grid;
+    justify-content: center;
+    color: red;
+}
+.subheader{
+    display: grid;
+    justify-content: center;
+    color: red;
+    font-family: Helvetica, sans-serif;
+}
+#introduction{
+    display: grid;
+    padding: 2%;
+    margin: auto;
+    justify-content: center;
+    font-family: Helvetica, sans-serif;
+  
+width: 424px;
+height: 195px;
+left: 1500px;
+top: 319px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: justify;
+
+color: #EB1414;
+}
+.socialmedia{
+    display: flex;
+    justify-content:unset;
+    list-style-type: none;  
+    margin-bottom: 10%;
+    margin-left: 28%;
+
+}
+.subheader2{
+    position: absolute;
+    width: 125px;
+    height: 41px;
+    left: 500px;
+    top: 717px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: justify;
+text-transform: uppercase;
+
+color: #EB1414;
+}
+#ABOUTcontent{
+    display: grid;
+    padding: 5%;
+    margin: auto;
+    justify-content: center;
+    font-family: Helvetica, sans-serif;  
+}
+.button{
+    display: flex;
+    list-style-type: none;
+    margin-left: 45%;
+}
+.subheader3{
+    display: grid;
+    margin-left: 41%;
+   
+}
+.RECREATIONcontent{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    margin-left: 20% 20%;
+    justify-content: space-evenly;
+
+}
+.tarvelling{ 
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.footernavbar{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: red;
+    margin-top: 50px;
+}
+.footersocialmedia{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-top: 40px;  
+}
+
